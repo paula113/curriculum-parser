@@ -5,6 +5,7 @@ Command line tool used to parse content written in markdown for our LMS at
 
 ![Node.js CI](https://github.com/Laboratoria/curriculum-parser/workflows/Node.js%20CI/badge.svg)
 [![Coverage Status](https://coveralls.io/repos/github/Laboratoria/curriculum-parser/badge.svg?branch=master)](https://coveralls.io/github/Laboratoria/curriculum-parser?branch=master)
+[![Sparkline](https://stars.medv.io/paula113/curriculum-parser.svg)](https://stars.medv.io/paula113/curriculum-parser)
 
 ## Installation
 
